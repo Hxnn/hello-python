@@ -1,0 +1,12 @@
+Applicatie: Dropbox - Dropbox vind ik een belangrijk en handige applicatie, omdat je allemaal dingen online kunt opslaan. 
+Als je ruimte op je PC/Laptop op is, kan je dingen online opslaan. 
+https://nl.wikipedia.org/wiki/Dropbox
+https://www.dropbox.com/nl_NL/login
+
+
+Game: Battlefield 2 - Gaming en Games vind ik altijd wel leuk, en vroeger heb ik zelf ook BF2 gespeeld. Dus Game-Development lijkt mij wel leuk.
+BF2 gebruikt Python voor al zijn add-onsen functionaliteit.
+https://nl.wikipedia.org/wiki/Battlefield_2
+https://www.ea.com/nl-nl/games/battlefield/battlefield-2
+
+Source: https://en.wikipedia.org/wiki/List_of_Python_software
